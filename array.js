@@ -1,0 +1,1 @@
+let studentArray = ["Ali" , "Patrick" , "Michael" , "Christian"];
